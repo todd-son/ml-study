@@ -9,3 +9,7 @@ dependencies:
   - tensorflow
   - jupyter
   - seaborn
+  - beautifulsoup4
+  - tensorflow
+
+
