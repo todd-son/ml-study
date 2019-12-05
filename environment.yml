@@ -11,5 +11,6 @@ dependencies:
   - seaborn
   - beautifulsoup4
   - tensorflow
+  - gensim
 
 
